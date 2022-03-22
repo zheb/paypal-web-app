@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies, USA Office.</h1>
+<h1 align="center">Welcome to Landmark Demo Webpage, USA Office.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions and serving over 5 billion users.
 	We also offer Training for DevOps with Linux and Cloud Engineers for best performance.</h1>
 <hr>
@@ -46,7 +46,6 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
 
 </body>
 </html>
